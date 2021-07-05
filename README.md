@@ -14,5 +14,5 @@ Dear visitor, I am using this repo to store the circuits I have developed for th
    
 ## Contact Information
 
-   [LinkedIN - myagubbayli](https://www.linkedin.com/in/myagubbayli/) 
+   [LinkedIn - myagubbayli](https://www.linkedin.com/in/myagubbayli/)&nbsp; 
    Email address: yagubbayli18@itu.edu.tr
