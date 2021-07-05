@@ -6,10 +6,10 @@ Dear visitor, I am using this repo to store the circuits I have developed for th
    
 ### Projects Done:\
 
-   1. Magic Wand, board with 555 Timer, Counter-Decoder
+   1. Magic Wand, board with 555 Timer, Counter-Decoder [https://github.com/myagubbayli/electronicDesigns/tree/master/magicWand](https://github.com/myagubbayli/electronicDesigns/tree/master/magicWand)
    
-   2. Mini Organator Device, board with 555 Timer, Op-Amp Circuit 
+   2. Mini Organator Device, board with 555 Timer, Op-Amp Circuit [https://github.com/myagubbayli/electronicDesigns/tree/master/miniOrganator](https://github.com/myagubbayli/electronicDesigns/tree/master/miniOrganator)
    
-   3. SimonDuino Game Device, board with ATMega328P MPU, USB to Serial UART Converter
+   3. SimonDuino Game Device, board with ATMega328P MPU, USB to Serial UART Converter [https://github.com/myagubbayli/electronicDesigns/tree/master/simonDuinoGame](https://github.com/myagubbayli/electronicDesigns/tree/master/simonDuinoGame)
    
    
