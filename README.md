@@ -12,4 +12,7 @@ Dear visitor, I am using this repo to store the circuits I have developed for th
    
    3. SimonDuino Game Device, board with ATMega328P MPU, USB to Serial UART Converter [https://github.com/myagubbayli/electronicDesigns/tree/master/simonDuinoGame](https://github.com/myagubbayli/electronicDesigns/tree/master/simonDuinoGame)
    
-   
+## Contact Information
+
+   [LinkedIN - myagubbayli](https://www.linkedin.com/in/myagubbayli/) 
+   Email address: yagubbayli18@itu.edu.tr
