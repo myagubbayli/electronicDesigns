@@ -10,4 +10,4 @@ Dear visitor, I am using this repo to store the circuits I have developed for th
    
    2. Mini Organator Device, board with 555 Timer, Op-Amp Circuit 
    
-   3. SimonDuino Game Device, board with ATMega328P MPU, USB to Serail UART Converter
+   3. SimonDuino Game Device, board with ATMega328P MPU, USB to Serial UART Converter
